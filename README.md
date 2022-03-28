@@ -16,4 +16,7 @@
 
 ## T-Tests on Suspension Coils
 ![T Tests](https://github.com/BrianWegemann/MechaCar_Statistical_Analysis/blob/main/Screenshots/T%20Tests%20-%20Del%203.PNG)
-### 
+### Based on our analysis, all three lots are similar to the population mean of 1500 PSI with the true mean being extremely close to the average. Individually, lots 1 and 2 were statistically similar to the mean while lot 3 was further off. Lot 3 had a p-value of 0.04168.
+
+## Study Design: MechaCar vs Competition
+### For our analysis, our team will be measuring the performance of cars with a high safety rating, and those with a lower safety rating. The purpose of this analysis is to see if higher performance cars also have high safety rating. Metrics considered would be average and top speed, fuel consumption, horse power and cost. For our analysis, we would use linear models and t-tests to review our results and test our hypothesis that higher performing cars have higher safety ratings.
